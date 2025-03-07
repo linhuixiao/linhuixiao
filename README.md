@@ -2,7 +2,7 @@
 
 :office: I'm currently a Research Assistant at Pengcheng National Laboratory.
 
-:mortar_board: I obtained my Ph.D. degree from the National Key Laboratory of Multimodal Artificial Intelligence Systems at the Institute of Automation, Chinese Academy of Sciences.
+:mortar_board: I obtained my Ph.D. degree from the National Key Laboratory of Multimodal AI Systems at the Institute of Automation, Chinese Academy of Sciences.
 
 🔭 My current research interests include computer vision, multimodal learning, multimodal visual grounding, 3D visual localization, etc. 
 
