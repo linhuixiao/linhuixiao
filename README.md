@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+:office: I'm currently a Research Assistant at Pengcheng National Laboratory.
+
+:mortar_board: I obtained my Ph.D. degree from the National Key Laboratory of Multimodal Artificial Intelligence Systems at the Institute of Automation, Chinese Academy of Sciences.
+
+🔭 My current research interests include computer vision, multimodal learning, multimodal visual grounding, 3D visual localization, etc. 
+
+👯 I’m always open to potential academic collaborations or visiting opportunities. If you are interested, please feel free to contact me by email. :blush:
+
+:house: My Homepage: https://linhuixiao.cn
+
+
 <!--
 **linhuixiao/linhuixiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
