@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-:office: I'm currently a Research Assistant at Pengcheng National Laboratory.
-:mortar_board: I obtained my Ph.D. degree from the Institute of Automation, Chinese Academy of Sciences.
+:office: I'm currently a Research Assistant at Pengcheng National Laboratory. I obtained my Ph.D. degree from the Institute of Automation, Chinese Academy of Sciences.
 
-🔭 My research interests include computer vision, multimodal learning, visual grounding, 3D visual localization, etc. 
-👯 I’m always open to potential academic collaborations or visiting opportunities. If you are interested, please feel free to contact me by email. :blush:
+🔭 My research interests include computer vision, multimodal learning, visual grounding, 3D visual localization, etc. I’m always open to potential academic collaborations or visiting opportunities. If you are interested, please feel free to contact me by email. 
 
 :house: My Homepage: https://linhuixiao.cn
 
@@ -22,4 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- :blush:
+- :mortar_board:
 -->
