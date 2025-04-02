@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-:office: I'm currently a Research Assistant at Pengcheng National Laboratory. I obtained my Ph.D. degree from the Institute of Automation, Chinese Academy of Sciences.
+:office: I'm currently an Assistant Professor at Pengcheng National Laboratory. I obtained my Ph.D. degree from the Institute of Automation, Chinese Academy of Sciences.
 
 🔭 My research interests include computer vision, multimodal learning, visual grounding, 3D visual localization, etc. I’m always open to potential academic collaborations or visiting opportunities. If you are interested, please feel free to contact me by email. 
 
