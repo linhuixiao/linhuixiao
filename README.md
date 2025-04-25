@@ -4,7 +4,7 @@
 
 🔭 My research interests include computer vision, multimodal learning, visual grounding, 3D visual localization, etc. I’m always open to potential academic collaborations or visiting opportunities. If you are interested, please feel free to contact me by email. 
 
-:house: My Homepage: https://linhuixiao.cn
+:house: My Homepage: https://linhuixiao.com
 
 
 <!--
